@@ -50,5 +50,5 @@ I'm a **Professional Software Developer 💻 😃** with over 4+ years of indust
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
-
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
 
