@@ -4,7 +4,6 @@
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ulrichando/)](https://github.com/ulrichando/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulrichando/)](https://www.linkedin.com/in/ulrichando/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/co.dopy)](https://www.instagram.com/co.dopy)
 [![BuyMeACoffee Badge](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/ulrichando)](https://www.buymeacoffee.com/ulrichando)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@codopy)](https://www.youtube.com/@codopy)
