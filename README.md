@@ -19,7 +19,7 @@ I'm a **Professional Coder 💻 😃** with over 4+ years of industry experience
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Senior Software Developer at **Tilism Technologies Pvt Ltd**
+- 🔭 My current project is , traching kids programming during my free time.**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a MERN stack developer, and I enjoy working on:
   - 🌐 Full-Stack Web Development with MongoDB, MySql, Express, React, Next, and Node.js
   - ⚙️ Building RESTful APIs and Single Page Applications (SPAs)
