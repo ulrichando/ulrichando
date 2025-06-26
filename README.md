@@ -28,7 +28,6 @@ I'm a **Professional Coder 💻 😃** with over 4+ years of industry experience
   - 📦 Backend Development with Node.js and Express
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about React, JavaScript, Node.js, MongoDB, MySql
-- 📙 Check out my [Resume](https://www.linkedin.com/in/ulrichando/)
 
   
 ### 🖥️ My DevSetup
